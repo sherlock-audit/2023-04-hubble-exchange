@@ -1,9 +1,11 @@
 
-# [project name] contest details
+# Huble Exchange contest details
 
 - Join [Sherlock Discord](https://discord.gg/MABEWyASkp)
 - Submit findings using the issue page in your private contest repo (label issues as med or high)
 - [Read for more details](https://docs.sherlock.xyz/audits/watsons)
+
+- [Hubble Exchange docs](https://hubbleexchange.notion.site/Sherlock-Audit-Brief-974c91994103458cae91bb28ac5c9df7)
 
 # Q&A
 
@@ -98,13 +100,3 @@ ___
 - [hubble-protocol/contracts/Oracle.sol](hubble-protocol/contracts/Oracle.sol)
 - [hubble-protocol/contracts/VUSD.sol](hubble-protocol/contracts/VUSD.sol)
 - [hubble-protocol/contracts/orderbooks/OrderBook.sol](hubble-protocol/contracts/orderbooks/OrderBook.sol)
-
-
-
-
-[foundry-test @ 19e0ae4b3d4afa101862d7484824075c6489a49b](https://github.com/frimoldi/foundry-test/tree/19e0ae4b3d4afa101862d7484824075c6489a49b)
-- [foundry-test/script/Counter.s.sol](foundry-test/script/Counter.s.sol)
-- [foundry-test/src/Counter.sol](foundry-test/src/Counter.sol)
-- [foundry-test/test/Counter.t.sol](foundry-test/test/Counter.t.sol)
-
-
