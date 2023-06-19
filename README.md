@@ -83,6 +83,25 @@ ___
 # Audit scope
 
 
+[hubble-protocol @ d89714101dd3494b132a3e3f9fed9aca4e19aef6](https://github.com/hubble-exchange/hubble-protocol/tree/d89714101dd3494b132a3e3f9fed9aca4e19aef6)
+- [hubble-protocol/contracts/AMM.sol](hubble-protocol/contracts/AMM.sol)
+- [hubble-protocol/contracts/ClearingHouse.sol](hubble-protocol/contracts/ClearingHouse.sol)
+- [hubble-protocol/contracts/GenesisTUP.sol](hubble-protocol/contracts/GenesisTUP.sol)
+- [hubble-protocol/contracts/HGT.sol](hubble-protocol/contracts/HGT.sol)
+- [hubble-protocol/contracts/HGTCore.sol](hubble-protocol/contracts/HGTCore.sol)
+- [hubble-protocol/contracts/HGTRemote.sol](hubble-protocol/contracts/HGTRemote.sol)
+- [hubble-protocol/contracts/InsuranceFund.sol](hubble-protocol/contracts/InsuranceFund.sol)
+- [hubble-protocol/contracts/Interfaces.sol](hubble-protocol/contracts/Interfaces.sol)
+- [hubble-protocol/contracts/MarginAccount.sol](hubble-protocol/contracts/MarginAccount.sol)
+- [hubble-protocol/contracts/MarginAccountHelper.sol](hubble-protocol/contracts/MarginAccountHelper.sol)
+- [hubble-protocol/contracts/MinimalForwarder.sol](hubble-protocol/contracts/MinimalForwarder.sol)
+- [hubble-protocol/contracts/Oracle.sol](hubble-protocol/contracts/Oracle.sol)
+- [hubble-protocol/contracts/VUSD.sol](hubble-protocol/contracts/VUSD.sol)
+- [hubble-protocol/contracts/orderbooks/OrderBook.sol](hubble-protocol/contracts/orderbooks/OrderBook.sol)
+
+
+
+
 [foundry-test @ 19e0ae4b3d4afa101862d7484824075c6489a49b](https://github.com/frimoldi/foundry-test/tree/19e0ae4b3d4afa101862d7484824075c6489a49b)
 - [foundry-test/script/Counter.s.sol](foundry-test/script/Counter.s.sol)
 - [foundry-test/src/Counter.sol](foundry-test/src/Counter.sol)
