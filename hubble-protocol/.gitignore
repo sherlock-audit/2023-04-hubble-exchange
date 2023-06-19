@@ -1,0 +1,22 @@
+node_modules
+*.env
+
+#Hardhat files
+cache
+artifacts
+
+venv
+contracts/curve-v2/*.txt
+
+test/debug.js
+coverage/
+coverage.json
+
+.DS_Store
+docgen
+
+dist
+out
+forge-cache
+lib/forge-std
+scripts/deploy/test-deploy/config.json
