@@ -1,9 +1,3 @@
-[submodule "foundry-test/lib/forge-std"]
-	path = foundry-test/lib/forge-std
-	url = https://github.com/foundry-rs/forge-std
-[submodule "foundry-test/sense-v1/pkg/deployments/lib/morpho-core-v1"]
-	path = foundry-test/sense-v1/pkg/deployments/lib/morpho-core-v1
-	url = https://github.com/morpho-dao/morpho-core-v1
 [submodule "hubble-protocol/lib/forge-std"]
 	path = hubble-protocol/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
